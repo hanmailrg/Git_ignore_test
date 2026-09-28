@@ -32,6 +32,10 @@ public class Assume_unchanged_8 {
 		System.out.println("수정함");
 		System.out.println("또 수정함");
 		System.out.println("최종본 완료함");
+		
+		System.out.println("1차 수정함.");
+		System.out.println("2차 수정함.");
+		System.out.println("3차 수정함.끝.");
 	}
 
 }
